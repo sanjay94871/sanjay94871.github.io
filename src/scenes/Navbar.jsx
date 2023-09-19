@@ -56,7 +56,6 @@ const Navbar = ({selectedPage, setSelectedPage}) =>{
 
 
                  <div className="flex items-center justify-between mx-auto w-5/6">
-                     <h4 className="font-poppins text-3xl font-bold">Kiran</h4>
 
                 <button className="rounded-full"
                 onClick={()=> setIsMenuToggled(!isMenuToggled)}>

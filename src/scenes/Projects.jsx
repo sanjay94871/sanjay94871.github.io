@@ -2,6 +2,7 @@ import LineGradient from "../components/LineGradient";
 import { motion } from "framer-motion";
 import student from "../assets/graduated.png"
 import iot from "../assets/water-level.png"
+import alexa from "../assets/icons8-alexa-480.png"
 
 const container = {
   hidden: {},
@@ -80,7 +81,11 @@ const Projects = () => {
           <Project title="Student's Performance Prediction using AI"
           content="The main purpose of the project is to predict student's academic performance based on past results and other socio-economic factors "
           src={student}
-          githublink="https://github.com/kiranbl/HotelManagementDatabaseSystem"
+          />
+
+        <Project title="Gym Buddy - Amazon Alexa Skill"
+          content="The project involves development of alexa skill for amazon echo device that will generate gym workout plan for users based on their fitness level and fitness goal "
+          src={alexa}
           />
 
         </motion.div>
