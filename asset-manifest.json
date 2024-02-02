@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sanjay94871.github.io/static/css/main.014b43e4.css",
+    "main.js": "/sanjay94871.github.io/static/js/main.7189c75d.js",
+    "static/media/Sanjay_Resume.pdf": "/sanjay94871.github.io/static/media/Sanjay_Resume.a6d7ba7065fb0e8e6f80.pdf",
+    "static/media/profileimg.jpg": "/sanjay94871.github.io/static/media/profileimg.de0a6d258924f1add7a7.jpg",
+    "static/media/icons8-alexa-480.png": "/sanjay94871.github.io/static/media/icons8-alexa-480.fb03964ac6e2012d236d.png",
+    "static/media/graduated.png": "/sanjay94871.github.io/static/media/graduated.18a876fb8ca953800670.png",
+    "static/media/water-level.png": "/sanjay94871.github.io/static/media/water-level.f2cda86760013c211749.png",
+    "index.html": "/sanjay94871.github.io/index.html",
+    "static/media/close-icon.svg": "/sanjay94871.github.io/static/media/close-icon.bffb84ce2deb8280c4cfcfa778ca29b6.svg",
+    "static/media/menu-icon.svg": "/sanjay94871.github.io/static/media/menu-icon.21ffcad16f85d0da03e0cc0d30612a92.svg",
+    "main.014b43e4.css.map": "/sanjay94871.github.io/static/css/main.014b43e4.css.map",
+    "main.7189c75d.js.map": "/sanjay94871.github.io/static/js/main.7189c75d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.014b43e4.css",
+    "static/js/main.7189c75d.js"
+  ]
+}
